@@ -1,2 +1,5 @@
 .vscode
 data
+controller_best.pth
+controller_final.pth
+world_model_full.pth
