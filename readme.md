@@ -10,7 +10,7 @@ The idea of mimicking the human brain in the field of AI has always been an appe
 
 ### Repository Structure
 
-[transformer-from-scratch.ipynb](transformer-from-scratch.ipynb) contains the block-wise implementation of world models, alongside the personal notes I took while replicating this architecture.
+[world-model-from-scratch.ipynb](world-model-from-scratch.ipynb) contains the block-wise implementation of world models, alongside the personal notes I took while replicating this architecture.
 
 ### Training
 
